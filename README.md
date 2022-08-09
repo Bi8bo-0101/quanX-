@@ -3,4 +3,7 @@
 该文件仅用于学习交流、不涉及任何商业用途、如需转载请标明出处
 Global.list，tag=全球加速，force-policy=国际媒体
 US.list, tag=流媒体US, force-policy=美国节点
-Apple.list, tag=苹果服务, force-policy=苹果服务
+Streaming.list, tag=国际媒体, force-policy=国际媒体
+
+update 22-8-9
+  文件中注释掉了国内用不到的Apple服务，尝试解决Orz中apple服务经过代理的问题
