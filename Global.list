@@ -241,7 +241,7 @@ DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
-# > Apple
+# > Apple-testflight
 DOMAIN,testflight.apple.com
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
@@ -455,7 +455,7 @@ DOMAIN-SUFFIX,golang.org
 # > Web Preview
 DOMAIN,apps.apple.com
 DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
+# DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
