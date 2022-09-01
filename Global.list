@@ -468,7 +468,7 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # ------
 # > Microsoft
-DOMAIN-SUFFIX,bing.com
+# DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
